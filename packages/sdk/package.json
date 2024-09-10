@@ -38,7 +38,7 @@
     "@nestia/fetcher": ">= 1.4.0",
     "cli": "^1.0.1",
     "glob": "^7.2.0",
-    "path-to-regexp": "^6.2.1",
+    "path-to-regexp": "^8.1.0",
     "reflect-metadata": ">= 0.1.12",
     "tgrid": "^0.8.7",
     "tsconfck": "^2.0.1",
